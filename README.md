@@ -2,6 +2,8 @@
 
 *"Unoriginal-Rice-Patty" is my personal title for the Replay-based attack on Honda and Acura vehicles*
 
+*This is for educational purposes only. I am in NO WAY liable for any actions executed by means of the contents within this repository. PLEASE use responsibly.*
+
 This attack seems to affect EVERY Honda/Acura vehicle with remote/wireless radio entry. Honda does *NOT* ever institue a rolling code system and *ONLY* manufactures systems with static keys meaning there is NO layer of security.
 
 ## Summary:
