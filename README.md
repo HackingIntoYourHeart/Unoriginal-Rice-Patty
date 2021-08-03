@@ -20,11 +20,17 @@ Recording a "lock" command and flipping the following bits: 653-656, 667-668, 77
 will tell the vehicle to unlock (These numbers include the preamble)
 
 ## *CONFIRMED* Vehicles:
+
 • 2009 Acura TSX
+
 • 2016 Honda Accord V6 Touring Sedan
+
 • 2017 Honda HR-V (CVE-2019-20626)
+
 • 2018 Honda Civic Hatchback
+
 • 2020 Honda Civic LX
+
 
 ## The Interesting Part
 Honda seemingly ignored CVE-2019-20626 (cited above in the list of confirmed, affected vehicles). They continued to implement 0 security measures against
