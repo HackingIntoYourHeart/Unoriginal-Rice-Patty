@@ -24,7 +24,7 @@ On top of being able to start the vehicle's *ENGINE* *Whenever I wished* through
 For Example:
 Recording a "lock" command and flipping the following bits: 
 
-```653-656, 667-668, 77-680, 683-684, 823-826, 837-838, 847-850, 853-854```
+```653-656, 667-668, 677-680, 683-684, 823-826, 837-838, 847-850, 853-854```
 
 will tell the vehicle to unlock (These numbers include the preamble)
 
