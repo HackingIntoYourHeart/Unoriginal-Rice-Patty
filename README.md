@@ -68,3 +68,6 @@ Honda must implement a "rolling code" system into their vehicles' list of securi
 work very well against hackers. Honda has seemingly never implemented this security measure, leaving them very far behind in the race toward a secure
 technological future. As far as I can tell, this isn't easily "patchable". Honda can begin to implement security measures in future vehicles, however
 it doesn't seem likely that they will go back and fix this security issue in older models.
+
+## Epilogue
+I am very interested in community feedback! Feel free to contact me with more research, information, or questions!
