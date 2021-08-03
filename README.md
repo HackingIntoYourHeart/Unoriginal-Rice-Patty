@@ -1,6 +1,7 @@
 # Unoriginal-Rice-Patty
 
 *"Unoriginal-Rice-Patty" is my personal title for the Replay-based attack on Honda and Acura vehicles*
+*"Honda" in Japanese translates to "Original Rice Patty". While a cute fact, this attack is not cute and not original, hence the name*
 
 *This is for educational purposes only. I am in NO WAY liable for any actions executed by means of the contents within this repository. PLEASE use responsibly.*
 
