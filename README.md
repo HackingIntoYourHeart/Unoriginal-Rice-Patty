@@ -61,7 +61,7 @@ what action the vehicle must perform.
 ## The Interesting Part
 Honda seemingly ignored CVE-2019-20626 (cited above in the list of confirmed, affected vehicles). They continued to implement 0 security measures against
 this very simple "replay/replay and edit" attack. This CVE interestingly only cites one vehicle and I only discovered this much later in my pursuit for
-research. 
+research. Honda will not respond to me, or seemingly anyone attempting to report this security MAJOR flaw.
 
 ## How Honda Can Fix This
 Honda must implement a "rolling code" system into their vehicles' list of security measures. Rolling code systems have been around since 1995 and
