@@ -16,7 +16,10 @@ Recording the "unlock" command from the target and replaying will allow me to un
 On top of being able to start the vehicle's *ENGINE* *Whenever I wished* through recording the "remote start" command, it seems possible to actually (through Honda's "Smart Key") demodulate any command, edit it, and retransmit in order to make the target vehicle do whatever you wish.
 
 For Example:
-Recording a "lock" command and flipping the following bits: 653-656, 667-668, 77-680, 683-684, 823-826, 837-838, 847-850, 853-854 
+Recording a "lock" command and flipping the following bits: 
+
+"""653-656, 667-668, 77-680, 683-684, 823-826, 837-838, 847-850, 853-854"""
+
 will tell the vehicle to unlock (These numbers include the preamble)
 
 ## *CONFIRMED* Vehicles:
