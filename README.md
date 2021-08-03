@@ -29,6 +29,20 @@ Recording a "lock" command and flipping the following bits:
 
 will tell the vehicle to unlock (These numbers include the preamble)
 
+I discovered this while analyzing the codes with my published Python script, "DiffBits" which is based on Samy Kamkars Perl script of the same name.
+
+Here is the comparison of two "unlock" keys (no preamble):
+<img width="1799" alt="unlock" src="https://user-images.githubusercontent.com/43358273/127954845-8e1503fd-2be6-4378-a452-96cd5b6c98b0.png">
+
+Here is the comparison of two "lock" keys (no preamble):
+<img width="1850" alt="lock" src="https://user-images.githubusercontent.com/43358273/127954862-3c6cd120-b9fe-43a9-955b-97c22e5d81e7.png">
+
+Here is the comparison of one unlock, and one lock key (no preamble):
+<img width="1850" alt="both" src="https://user-images.githubusercontent.com/43358273/127954890-bcd52cff-3782-4c3c-b1f5-4d926b1b56a5.png">
+
+The red text indicates a change in bits. Some can be written off as simple errors in processing the codes, however some are very clearly indicating
+what action the vehicle must perform.
+
 ## *CONFIRMED* Vehicles:
 
 • 2009 Acura TSX
