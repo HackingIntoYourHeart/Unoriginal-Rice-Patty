@@ -20,7 +20,7 @@ Simply capturing the signal sent from a FOB is enough to gain at least *some* co
 receiving it and saving it for me to gain the ability to replay the same command and have the vehicle respond accordingly.
 
 Recording the "unlock" command from the target and replaying will allow me to unlock the vehicle whenever I'd like to, and it doesn't stop there *at all*
-On top of being able to start the vehicle's *ENGINE* *Whenever I wished* through recording the "remote start" command, it seems possible to actually (through Honda's "Smart Key") demodulate any command, edit it, and retransmit in order to make the target vehicle do whatever you wish.
+On top of being able to start the vehicle's *ENGINE* *Whenever I wished* through recording the "remote start" command, it seems possible to actually (through Honda's "Smart Key" which uses FSK) demodulate any command, edit it, and retransmit in order to make the target vehicle do whatever you wish.
 
 For Example:
 Recording a "lock" command and flipping the following bits: 
