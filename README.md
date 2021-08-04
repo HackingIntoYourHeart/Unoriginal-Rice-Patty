@@ -44,7 +44,7 @@ what action the vehicle must perform.
 
 (Codes processed with [URH](https://github.com/jopohl/urh) and were provided by [REDACTED]. Thanks, [REDACTED]!)
 
-## *CONFIRMED* Vehicles:
+## *CONFIRMED* Vehicles (despite the fact that this likely affects them all):
 
 • 2009 Acura TSX
 
