@@ -4,6 +4,8 @@ https://user-images.githubusercontent.com/43358273/127954308-5519436a-d980-420d-
 
 # Unoriginal-Rice-Patty
 
+*"Can you believe that a low-quality garage door has better security than a Honda?"*
+
 *"Unoriginal-Rice-Patty" is my personal title for the Replay-based attack on Honda and Acura vehicles*
 *"Honda" in Japanese translates to "Original Rice Patty". While a cute fact, this attack is not cute and not original, hence the name*
 
