@@ -20,8 +20,8 @@ A hacker can gain complete and unlimited access to locking, unlocking, controlli
 Simply capturing the signal sent from a FOB is enough to gain at least *some* control of the vehicle. If the target locks their vehicle, all it takes is
 receiving it and saving it for me to gain the ability to replay the same command and have the vehicle respond accordingly.
 
-Recording the "unlock" command from the target and replaying will allow me to unlock the vehicle whenever I'd like to, and it doesn't stop there *at all*
-On top of being able to start the vehicle's *ENGINE* *Whenever I wished* through recording the "remote start" command, it seems possible to actually (through Honda's "Smart Key" which uses FSK) demodulate any command, edit it, and retransmit in order to make the target vehicle do whatever you wish.
+Recording the "unlock" command from the target and replaying (this works on most if not all of Honda's produced FOBs) will allow me to unlock the vehicle whenever I'd like to, and it doesn't stop there *at all*
+On top of being able to start the vehicle's *ENGINE* *Whenever I wished* through recording the "remote start", it seems possible to actually (through Honda's "Smart Key" which uses FSK) demodulate any command, edit it, and retransmit in order to make the target vehicle do whatever you wish.
 
 For Example:
 Recording a "lock" command and flipping the following bits: 
