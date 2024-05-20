@@ -1,9 +1,3 @@
-*Note to visitors. I was banned from presenting my research due to the fact that I defended myself against bullying and harrassment. I apologize for my behavior to anyone involved, though I want to be clear that I feel great heartbreak after hearing this news. This is the original discoverer and yet many others have claimed that they themselves discovered this issue first, or claimed that they worked with me. This was purely on my own. Any article you read about me working with others is lying. I was never interviewed by anyone. Anyone that requested to interview me didn't respond to my response email. Many people have treated me with kindness, though many others have treated me with disrespect. We are all equal in this community, in my eyes.
-
-Unfortunately due to this incident, I will be pulling all of my present research from Github and scraping my cyber security presence from the web. I will no longer collaborate with others nor will I answer questions. I have been stolen from and harrassed to no end and on top of that I have lost many great opportunites because of the fact that I chose to defend my character in a group setting where I was being picked on.
-
-Love to all supporters. This is the last remaining repository. Goodbye.*
-
 https://user-images.githubusercontent.com/43358273/127954308-5519436a-d980-420d-a6cd-d21e3cf463e3.mp4
 
 # Unoriginal-Rice-Patty
